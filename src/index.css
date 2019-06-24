@@ -22,4 +22,7 @@ div.container-fluid {
 }
 body {
   background-image: url("bbg.jpg");
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;   
 }
