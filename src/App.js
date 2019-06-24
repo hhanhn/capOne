@@ -61,7 +61,7 @@ class App extends Component {
         <div className="row justify-content-center align-items-center d-flex text-center h-100 mt-5 mb-5 b-primary" >
         {/* Form for the search query */}
         <form className = "mr-1" onSubmit = {this.handleSubmit}>
-        <h1>National Park Services</h1>
+        <h1>National Park Service</h1>
         <h3>Search for a Park</h3>
           <div className="form-group ">
             <label htmlFor="nameID"></label>
